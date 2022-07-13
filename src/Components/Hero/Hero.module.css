@@ -1,0 +1,56 @@
+.hero{
+    background-color: #101225;
+}
+
+.heroCon{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3rem 0rem;
+}
+
+.heroCon h1{
+    font-size: 5rem;
+    color: white;
+    font-weight: 600;
+}
+
+.heroCon > div > p{
+    color: #CBD5E0;
+    line-height: 200%;
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+}
+
+.heroCon > div > div{
+    display: flex;
+    gap: 2rem;
+}
+
+.listing{
+    width: 70%;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+
+.listing > div{
+    display: flex;
+    flex-direction: column;
+    gap: .2rem;
+
+}
+
+.listing h2{
+    color: #CBD5E0;
+}
+
+.listing p{
+    color: #CBD5E0;
+    font-size: 1.3rem;
+}
+
+.middleChild{
+    padding: 0rem 2rem;
+    border-left: 2px solid #E2E8F0;
+    border-right: 2px solid #E2E8F0;
+}

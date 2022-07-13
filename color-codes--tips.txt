@@ -1,0 +1,12 @@
+font used is -- Inter (Use goole font, add font your fonts before starting your projects)
+
+the "female" text in the header is gradient fill -- try that
+
+main header dark background -- #101225
+blue button background header -- #3754DB
+navigation text fonts -- #5D5D5D
+light grey text color -- #CBD5E0
+'job posting' background -- #E1E8FF
+them light blue or grey deni backgrounds, the one that is in 3 parts -- #F7FAFC
+border color -- #E2E8F0
+footer bg -- #222222
