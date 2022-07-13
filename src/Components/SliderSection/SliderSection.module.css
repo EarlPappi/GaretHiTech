@@ -1,0 +1,15 @@
+.sliderSection{
+    padding: 3rem 0rem;
+}
+
+.sliderSection p{
+    text-align: center;
+    font-weight: 300;
+    font-size: 1.3rem;
+    margin-bottom: 2rem;
+}
+
+.iconCon{
+    display: flex;
+    justify-content: space-evenly;
+}
