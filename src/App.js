@@ -3,6 +3,7 @@ import Header from './Components/Header/Header';
 import Hero from './Components/Hero/Hero';
 import SliderSection from './Components/SliderSection/SliderSection';
 import PreFooter from './Components/PreFooterSection/PreFooter'
+import Footer from './Components/Footer/Footer';
 
 function App() {
   return (
@@ -12,6 +13,8 @@ function App() {
      <SliderSection/>
 
      <PreFooter/>
+
+     <Footer/>
     </div>
   );
 }

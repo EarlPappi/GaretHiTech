@@ -1,0 +1,54 @@
+.footerCon {
+    background-color: #222222;
+    padding: 4rem 0rem;
+}
+
+.footerInputSec{
+    padding: 3rem;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footerInputSec h2{
+    color: #3754DB;
+}
+
+.inputMaj{
+    border: 2px solid #E2E8F0;
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    padding: .5rem;
+    border-radius: 1.5rem;
+}
+
+.inputMaj input{
+    width: 60%;
+    border: none;
+    outline: none;
+    padding-left: 1rem;
+}
+
+.footerNavCon{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+}
+
+.footerNav{
+    display: flex;
+    gap: 2rem;
+}
+
+.footerNav a{
+    text-decoration: none;
+    color: #CBD5E0;
+}
+
+.footerNavCon p{
+    color: #CBD5E0;
+
+}
