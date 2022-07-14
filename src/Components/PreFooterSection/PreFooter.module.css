@@ -6,7 +6,7 @@
 
 
 .jobCon{
-    width: 60%;
+    width: 50%;
     padding: 2rem;
     border-radius: 20px;
     background-color: #F7FAFC;
@@ -19,6 +19,5 @@
     flex-direction: column;
     gap: 2rem;
     justify-content: space-between;
-    width: 40%;
 }
 

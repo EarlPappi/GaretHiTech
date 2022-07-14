@@ -4,3 +4,25 @@
     padding-bottom: 4rem;
     border-radius: 20px;
 }
+
+.firstPodSec{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.podcastListing{
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.imgConPod{
+    border-radius: 20px;
+}
+
+.podInner{
+    display: flex;;
+    flex-direction: column;
+    gap: 1.2rem;
+}
