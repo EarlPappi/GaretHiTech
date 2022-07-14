@@ -28,7 +28,7 @@
 }
 
 .listing{
-    width: 70%;
+    width: 80%;
     justify-content: space-between;
     margin-top: 1rem;
 }
@@ -46,7 +46,7 @@
 
 .listing p{
     color: #CBD5E0;
-    font-size: 1.3rem;
+    font-size: 1rem;
 }
 
 .middleChild{

@@ -1,0 +1,25 @@
+.preFootersec{
+    display: flex;
+    gap: 3rem;
+}
+
+
+.jobCon{
+    width: 60%;
+    padding: 2rem;
+    border-radius: 20px;
+    background-color: #F7FAFC;
+}
+
+.comPodCon{
+    display: flex;
+    padding: 2rem;
+    border-radius: 20px;
+    background-color: #F7FAFC;    
+    flex-direction: column;
+    gap: 2rem;
+    align-content: space-between;
+    border: 2px aqua solid;
+    width: 40%;
+}
+

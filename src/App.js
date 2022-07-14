@@ -2,6 +2,7 @@ import './App.css';
 import Header from './Components/Header/Header';
 import Hero from './Components/Hero/Hero';
 import SliderSection from './Components/SliderSection/SliderSection';
+import PreFooter from './Components/PreFooterSection/PreFooter'
 
 function App() {
   return (
@@ -9,6 +10,8 @@ function App() {
      <Header/>
      <Hero/>
      <SliderSection/>
+
+     <PreFooter/>
     </div>
   );
 }
