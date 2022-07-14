@@ -1,6 +1,7 @@
 .preFootersec{
     display: flex;
     gap: 3rem;
+    margin-bottom: 5rem;
 }
 
 
@@ -13,13 +14,11 @@
 
 .comPodCon{
     display: flex;
-    padding: 2rem;
     border-radius: 20px;
-    background-color: #F7FAFC;    
+    background-color: white;    
     flex-direction: column;
     gap: 2rem;
-    align-content: space-between;
-    border: 2px aqua solid;
+    justify-content: space-between;
     width: 40%;
 }
 

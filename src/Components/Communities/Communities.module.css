@@ -1,0 +1,31 @@
+.communitiesCon{
+    background-color: #F7FAFC;
+    padding: 2rem;
+    padding-bottom: 4rem;
+    border-radius: 20px;
+}
+
+.firstCommSec{
+    display: flex;
+    justify-content: space-between;
+}
+
+.commLisiting{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: #E2E8F0 2px solid;
+}
+
+.innerConListing{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding-top: .5rem;
+}
+
+.innerConListing span{
+    font-weight: 700;
+}
