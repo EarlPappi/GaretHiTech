@@ -11,9 +11,7 @@ function App() {
      <Header/>
      <Hero/>
      <SliderSection/>
-
      <PreFooter/>
-
      <Footer/>
     </div>
   );

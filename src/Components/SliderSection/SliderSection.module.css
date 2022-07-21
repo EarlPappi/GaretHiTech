@@ -1,5 +1,7 @@
 .sliderSection{
     padding: 3rem 0rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
 }
 
 .sliderSection p{
@@ -12,4 +14,6 @@
 .iconCon{
     display: flex;
     justify-content: space-evenly;
+    gap: 1rem;
+    overflow-x: scroll;
 }

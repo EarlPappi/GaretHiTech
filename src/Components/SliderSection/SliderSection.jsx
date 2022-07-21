@@ -4,6 +4,7 @@ import Maxar from '../../Assets/maxar.png';
 import SpaceX from '../../Assets/space-x.png';
 import classes from './SliderSection.module.css';
 import Wrapper from '../TinyComp/Wrapper';
+import Vector from "../../Assets/Vector.svg"
 
 const SliderSection = () => {
     return (
@@ -16,7 +17,7 @@ const SliderSection = () => {
                     <img src={Netflix} alt="" />
                     <img src={Audi} alt="" />
                     <img src={SpaceX} alt="" />
-                    <img src={Audi} alt="" />
+                    <img src={Vector} alt="" />
                     <img src={Maxar} alt="" />
                     <img src={Audi} alt="" />
 

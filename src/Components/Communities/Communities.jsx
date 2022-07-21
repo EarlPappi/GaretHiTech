@@ -26,6 +26,8 @@ const Communities = () => {
                     <p>Lorem ipsum dolor sit amet consectetur.</p>
                 </div>
 
+                
+
                 <div>
                     <Button color="white" bgColor='#3754DB'>See all</Button>
                 </div>
