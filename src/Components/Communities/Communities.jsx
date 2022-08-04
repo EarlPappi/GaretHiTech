@@ -16,6 +16,10 @@ const Communities = () => {
         {
             title: 'Web Development',
             members: 23
+        },
+        {
+            title: 'Graphics Design',
+            members: 17
         }
     ]
     return (
